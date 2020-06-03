@@ -1,5 +1,8 @@
+npm install
+// Instala as depêndencias do projeto.
+
 npm rum dev
-// Roda o servidor
+// Inicia o Back End
 
 npm run knex:migrate
 // Roda Migrations Banco de dados
