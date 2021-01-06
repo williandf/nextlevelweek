@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://github.com/rocketseat-education/nlw-03-omnistack/raw/master/.github/happy.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
